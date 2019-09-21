@@ -57,7 +57,7 @@
         </repository>
         <!--<snapshotRepository>
             <id>maven-releases</id>
-            <url>http://34.93.144.130:8081/repository/maven-releases/</url>
+            <url>http://34.93.121.34:8081/repository/maven-releases/</url>
         </snapshotRepository> -->
     </distributionManagement>  
 </project>
