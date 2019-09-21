@@ -52,8 +52,8 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>maven-released</id>
-            <url>http://34.93.121.34:8081/repository/maven-released/</url>
+            <id>maven-releases</id>
+            <url>http://34.93.121.34:8081/repository/maven-releases/</url>
         </repository>
         <!--<snapshotRepository>
             <id>maven-hosted</id>
