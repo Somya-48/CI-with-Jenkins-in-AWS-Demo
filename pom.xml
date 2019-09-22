@@ -52,12 +52,12 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>maven-hosted</id>
-            <url>http://34.93.121.34:8081/repository/maven-hosted/</url>
+            <id>maven-new</id>
+            <url>http://34.93.121.34:8081/repository/maven-new/</url>
         </repository>
         <!--<snapshotRepository>
             <id>maven-hosted</id>
-            <url>http://34.93.121.34:8081/repository/maven-hosted/</url>
+            <url>http://34.93.121.34:8081/repository/maven-new/</url>
         </snapshotRepository> -->
     </distributionManagement>  
 </project>
