@@ -52,12 +52,12 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://34.93.121.34:8081/repository/maven-releases/</url>
+            <id>maven-snapshots</id>
+            <url>http://34.93.121.34:8081/repository/maven-snapshots/</url>
         </repository>
         <!--<snapshotRepository>
-            <id>maven-releases</id>
-            <url>http://34.93.121.34:8081/repository/maven-releases/</url>
+            <id>maven-snapshots</id>
+            <url>http://34.93.121.34:8081/repository/maven-snapshots/</url>
         </snapshotRepository> -->
     </distributionManagement>  
 </project>
