@@ -53,7 +53,7 @@
     <distributionManagement>
         <repository>
             <id>maven-final</id>
-            <url>http://34.93.121.34:8081/repository/maven-new/</url>
+            <url>http://34.93.121.34:8081/repository/maven-final/</url>
         </repository>
         <!--<snapshotRepository>
             <id>maven-final</id>
